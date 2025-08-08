@@ -30,7 +30,7 @@ I’m passionate about building intelligent systems, automating workflows, and o
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Generative AI** techniques
+- Advanced **Generative AI && Azure ML** techniques
 - **Agentic AI** workflows
 - **Kubernetes on AWS (EKS)** & multi-cloud orchestration
 
