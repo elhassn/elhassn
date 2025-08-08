@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed El Hassnaoui 👋  
+# Hi there, I'm Simo El 👋  
 
 🚀 **Cloud & AI Enthusiast | Technical Support Engineer | Developer**  
 
