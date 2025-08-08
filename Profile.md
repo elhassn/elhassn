@@ -37,7 +37,7 @@ I’m passionate about building intelligent systems, automating workflows, and o
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/mohamedelhassnaoui](https://linkedin.com/in/mohamedelhassnaoui)
+- **LinkedIn:** [linkedin.com/in/mohamedelhassnaoui](www.linkedin.com/in/simo-e-73a363219)
 - **GitHub:** [github.com/elhassn](https://github.com/elhassn)
 
 ---
