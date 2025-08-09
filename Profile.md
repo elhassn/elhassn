@@ -12,8 +12,8 @@ I’m passionate about building intelligent systems, automating workflows, and o
 - **Programming & Development:** Python, Java, C#, JavaScript, SQL, PL/SQL, .NET Framework, .NET Core, Node.js, Next.js  
 - **Cloud Platforms & Big Data:** AWS (EC2, S3, Lambda, ECS, EMR), Azure, GCP  
 - **Containers & Orchestration:** Docker, Kubernetes  
-- **AI / Machine Learning:** LangChain, Hugging Face, Deep Learning, Generative AI, Apache Spark  
-- **Messaging & Data Streaming:** Apache Kafka  
+- **AI / Machine Learning:** LangChain, Hugging Face, Deep Learning, Generative AI
+- **Messaging & Data Streaming:** Apache Kafka, Apache Spark  
 - **Databases & Headless CMS:** MySQL, Oracle, MS SQL Server, Hygraph (GraphQL CMS)  
 - **DevOps / Automation / Scripting:** Linux Shell, PowerShell, YAML, HCL  
 - **Web & API Development:** HTML, CSS, React, REST APIs, GraphQL  
